@@ -1,0 +1,84 @@
+.content-box{
+	width: 100%;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	padding: 50px 100px;
+	background: #FF7400;
+	border-radius: 60px;
+	text-align: center;
+	box-shadow: 2px 3px 21px 5px rgba(0, 0, 0, 0.25);
+}
+.main-container{
+	margin-left: 280px;
+}
+.wrapper-header{
+	border-bottom: solid 4px;
+	border-color: #009999;
+	background: #FF9640;
+}
+.logo{
+	font-weight: 500;
+	font-size: 50px;
+	color: #009999;
+}
+.side-bar{
+	border-right: solid 4px;
+	border-color: #009999;
+	top: 0;
+	position: fixed;
+	height: 100vh;
+}
+.page{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background: #FFFFB1;
+	min-height: 74.7vh;
+	
+}
+.content-box h1{
+	color: #ffffff;
+
+}
+.content-box {
+	font-weight: 300;
+	font-size: 20px;
+	color: #ffffff;
+}
+.content-box ul{
+	text-align: left;
+}
+.top-img {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	margin-top: 30px;
+}
+.top-img img{
+	width: 100%;
+	height: 100%;
+	display: ;
+	align-content: center;
+	border-radius: 40px;
+}
+.logo-img{
+	width: 100px;
+	height: 80px;
+	margin-right: 10px;
+}
+.side-bar-design{
+	background-color: #B62E40;
+	color: #fff!important;
+}
+.wrapper-footer{
+    border-top: solid 4px;
+	border-color: #009999;
+	background: #A64B00;
+}
+.footer-container{
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+	font-weight: 300;
+	font-size: 20px;
+	color: #ffffff;
+}
